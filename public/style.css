@@ -1,0 +1,26 @@
+.contact__link {
+    color: #fff !important  ;
+    text-decoration: none;
+    text-align: center;
+    font-size: 20px;
+    text-transform: uppercase;
+    border: 1px solid #fff;
+    padding: 15px 10px;
+    transition: all .3s;
+}
+.contact__link:hover {
+    opacity: .7;
+}
+.logo {
+    padding-top: 7px;
+    background: #ebb000;
+    border-radius: 3px;
+}
+.logo__img {
+    width: 200px;
+}
+.main-background {
+    background: #ebb000;
+    min-height: calc(100vh - 100px);
+    width: 100%;
+}
